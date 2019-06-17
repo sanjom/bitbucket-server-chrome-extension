@@ -36,9 +36,9 @@
 		"persistent": false
 	},
 	"web_accessible_resources": [
-		"js/stash_page.js",
-		"js/stash_detector.js",
-		"css/page_injection.css",
+    "css/bitbucket_page.css",
+    "js/bitbucket_detector.js",
+		"js/bitbucket_page.js",
 		"js/default.json",
 		"js/template.txt",
 		"img/stash128.png"

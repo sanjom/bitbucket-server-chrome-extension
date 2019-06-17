@@ -1,6 +1,5 @@
 /* eslint-env amd */
 /* globals bitbucket, aui, WRM, AJS, template */
-
 ;(function() {
 	// bitbucket page must have require function
 	if(typeof window.define === 'undefined' || typeof window.require === 'undefined' || typeof window.bitbucket === 'undefined')
